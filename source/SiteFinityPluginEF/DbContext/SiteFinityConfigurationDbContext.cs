@@ -1,7 +1,7 @@
 ﻿using System.Data.Entity;
 using IdentityServer.SiteFinity.EntityFramework.Entities;
 
-namespace IdentityServer3.SiteFinity.EntityFramework
+namespace IdentityServer.SiteFinity.EntityFramework
 {
     public class SiteFinityConfigurationDbContext : BaseDbContext
     {

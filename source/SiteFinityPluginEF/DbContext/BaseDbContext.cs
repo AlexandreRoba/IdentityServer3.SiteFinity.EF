@@ -3,7 +3,7 @@ using System.Data.Entity;
 using System.Data.Entity.Validation;
 using System.Linq;
 
-namespace IdentityServer3.SiteFinity.EntityFramework
+namespace IdentityServer.SiteFinity.EntityFramework
 {
     public class BaseDbContext : DbContext
     {

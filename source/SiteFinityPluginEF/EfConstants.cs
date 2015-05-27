@@ -1,4 +1,4 @@
-﻿namespace IdentityServer3.SiteFinity.EntityFramework
+﻿namespace IdentityServer.SiteFinity.EntityFramework
 {
     class EfConstants
     {
