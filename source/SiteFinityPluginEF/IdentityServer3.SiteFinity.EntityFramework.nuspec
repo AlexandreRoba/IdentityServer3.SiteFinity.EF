@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IdentityServer3.SiteFinity.EntityFramework</id>
+    <version>0.0.0</version>
+    <title>Thinktecture IdentityServer3 - Sitefinity - Entity Framework</title>
+    <authors>Alexandre Roba</authors>
+    <owners>Alexandre Roba</owners>
+    <projectUrl>https://github.com/AlexandreRoba/IdentityServer3.SiteFinity.EF</projectUrl>
+    <iconUrl>http://www.thinktecture.com/images/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/AlexandreRoba/IdentityServer3.SiteFinity.EF/blob/master/LICENSE</licenseUrl>
+    <summary>Entity Framework-based persistence layer for Sitefinity Relying parties on IdentityServer3</summary>
+    <description>Entity Framework-based persistence layer for Sitefinity Relying parties on IdentityServer3</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Thinktecture IdentityServer OpenID Connect OpenIDConnect OAuth2 OWIN ASP.NET Katana WebApi SSO Federation Claims Identity EF EntityFramework Sitefinity</tags>
+  </metadata>
+</package>
