@@ -96,6 +96,7 @@
     <Compile Include="Config\Certificate.cs" />
     <Compile Include="Config\Clients.cs" />
     <Compile Include="Config\Factory.cs" />
+    <Compile Include="Config\PluginConfiguration.cs" />
     <Compile Include="Config\Scopes.cs" />
     <Compile Include="Config\SiteFinityRelyingParties.cs" />
     <Compile Include="Config\Users.cs" />

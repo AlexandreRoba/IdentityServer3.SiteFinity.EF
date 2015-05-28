@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Owin;
+﻿using Owin;
 using SelfHost.Config;
 using Thinktecture.IdentityServer.Core.Configuration;
 using Thinktecture.IdentityServer.Core.Logging;
@@ -20,10 +15,13 @@ namespace SelfHost
             {
                 SiteName = "Thinktecture IdentityServer3 (EntityFramework)",
                 SigningCertificate = Certificate.Get(),
-                Factory = Factory.Configure("IdSvr3Config")
+                Factory = Factory.Configure("IdSvr3Config"),
+                PluginConfiguration = Plugin.Configure("IdSvr3Config")
             };
-
+            
             appBuilder.UseIdentityServer(options);
+            
         }
+
     }
 }
