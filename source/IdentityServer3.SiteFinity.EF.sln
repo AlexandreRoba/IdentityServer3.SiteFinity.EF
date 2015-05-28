@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteFinityPluginEF", "SiteFinityPluginEF\SiteFinityPluginEF.csproj", "{4DF236FC-28F0-49D8-BC6C-9A072E64EDB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHost", "SelfHost\SelfHost.csproj", "{C66EE524-8775-47B0-99DF-7770B4D59448}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "SelfHost\Host.csproj", "{C66EE524-8775-47B0-99DF-7770B4D59448}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F51FC964-705B-425D-8AC7-306103AEBE12}"
 	ProjectSection(SolutionItems) = preProject

@@ -6,6 +6,7 @@ namespace IdentityServer.SiteFinity.EntityFramework.Entities
     {
         [Key]
         public virtual int Id { get; set; }
+        
         [Required]
         [StringLength(200)]
         public virtual string Name { get; set; }
