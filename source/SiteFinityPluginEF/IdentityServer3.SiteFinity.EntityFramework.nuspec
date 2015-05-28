@@ -3,7 +3,7 @@
   <metadata>
     <id>IdentityServer3.SiteFinity.EntityFramework</id>
     <version>0.0.0</version>
-    <title>Thinktecture IdentityServer3 - Sitefinity - Entity Framework</title>
+    <title>IdentityServer3 - Sitefinity - Entity Framework</title>
     <authors>Alexandre Roba</authors>
     <owners>Alexandre Roba</owners>
     <projectUrl>https://github.com/AlexandreRoba/IdentityServer3.SiteFinity.EF</projectUrl>

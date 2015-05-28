@@ -10,7 +10,7 @@ properties {
 	$nuget_path = "$src_directory\packages\NuGet.CommandLine.2.8.5\tools\nuget.exe"
 	
 	$buildNumber = 0;
-	$version = "0.0.1.0"
+	$version = "0.0.2.0"
 	$preRelease = $null
 }
 
